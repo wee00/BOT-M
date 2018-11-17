@@ -1,0 +1,12 @@
+# Entry removed Thu Dec 28 13:07:31 2017
+# Reason: ERROR: oBllGsz-6Os: YouTube said: This video does not exist.
+https://youtube.com/watch?v=oBllGsz-6Os
+
+################################
+
+# Entry removed Thu Dec 28 13:09:29 2017
+# Reason: ERROR: FhZ-yTIXXYI: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=FhZ-yTIXXYI
+
+################################
+
